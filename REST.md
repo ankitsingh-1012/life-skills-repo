@@ -1,4 +1,4 @@
-# Understanding REST (Representational State Transfer)
+# REST (Representational State Transfer)
 
 ## What is REST?
 REST, or **Representational State Transfer**, is an architectural style used for designing networked applications. It was introduced by Roy Fielding in his 2000 doctoral dissertation as a set of guidelines for creating scalable and simple web services. RESTful services allow for communication between a client and server over HTTP by defining a standard set of operations, making it widely adopted for APIs across the web.
@@ -34,6 +34,56 @@ Imagine a REST API managing "books" in a library system. Here’s how the HTTP m
 - **DELETE /books/1**: Deletes the book with ID 1 from the library.
 
 Each of these operations acts on a specific "resource" (in this case, "books") and communicates using standardized HTTP methods.
+
+## Core Principles of REST
+
+| Principle                | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Statelessness            | Each client request must contain all the information needed.               |
+| Client-Server Separation  | Clear separation between client and server components.                     |
+| Uniform Interface        | Standardized way of interacting with resources using HTTP methods.         |
+| Cacheability             | Responses can be cached to improve performance.                            |
+| Layered System           | A client may connect to an intermediary server instead of the main server. |
+
+## HTTP Methods in REST
+
+RESTful APIs commonly use HTTP methods to perform CRUD (Create, Read, Update, Delete) operations on resources. Here’s a quick overview:
+
+| HTTP Method | Description                        | Example Request     |
+|-------------|------------------------------------|----------------------|
+| GET         | Retrieve information from the server | `GET /books`        |
+| POST        | Submit data to create a new resource | `POST /books`      |
+| PUT         | Update an existing resource         | `PUT /books/1`      |
+| DELETE      | Remove a resource                   | `DELETE /books/1`   |
+
+## Example of REST in Action
+
+Imagine a REST API managing "books" in a library system. Here’s how the HTTP methods work in this context:
+
+- **GET /books**: Retrieves a list of all books.
+- **POST /books**: Adds a new book to the library.
+- **PUT /books/1**: Updates information for the book with ID 1.
+- **DELETE /books/1**: Deletes the book with ID 1 from the library.
+
+Each of these operations acts on a specific "resource" (in this case, "books") and communicates using standardized HTTP methods.
+
+## Benefits of REST
+
+| Benefit          | Description                                                            |
+|------------------|------------------------------------------------------------------------|
+| Scalability      | Statelessness allows applications to scale horizontally.               |
+| Flexibility      | REST can be used with many programming languages and technologies.     |
+| Interoperability | REST APIs can be consumed by multiple clients across various platforms. |
+
+## Illustrative Images
+
+### Image 1: REST Architecture
+![REST Architecture](https://example.com/rest-architecture.png)
+*This image illustrates the basic architecture of a RESTful API, showcasing how clients communicate with the server through requests.*
+
+### Image 2: RESTful API Flow
+![RESTful API Flow](https://example.com/restful-api-flow.png)
+*This diagram shows the flow of requests and responses in a RESTful API, emphasizing the use of standard HTTP methods.*
 
 ## Benefits of REST
 
