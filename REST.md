@@ -74,15 +74,14 @@ Each of these operations acts on a specific "resource" (in this case, "books") a
 | Scalability      | Statelessness allows applications to scale horizontally.               |
 | Flexibility      | REST can be used with many programming languages and technologies.     |
 | Interoperability | REST APIs can be consumed by multiple clients across various platforms. |
-
 ## Illustrative Images
 
 ### Image 1: REST Architecture
-![REST Architecture](https://example.com/rest-architecture.png)
+![REST Architecture](https://upload.wikimedia.org/wikipedia/commons/6/6a/REST_API_logo.png)
 *This image illustrates the basic architecture of a RESTful API, showcasing how clients communicate with the server through requests.*
 
 ### Image 2: RESTful API Flow
-![RESTful API Flow](https://example.com/restful-api-flow.png)
+![RESTful API Flow](https://upload.wikimedia.org/wikipedia/commons/d/d2/RESTful_Web_Service_Design.png)
 *This diagram shows the flow of requests and responses in a RESTful API, emphasizing the use of standard HTTP methods.*
 
 ## Benefits of REST
