@@ -29,8 +29,7 @@ Sexual harassment refers to unwelcome behavior of a sexual nature that negativel
 ### Importance of Addressing Sexual Harassment
 Addressing sexual harassment promptly is essential for fostering a respectful, inclusive, and productive workplace. It reduces stress, increases job satisfaction, and helps retain talented employees. Organizations should enforce policies, conduct training, and create an environment where individuals feel safe to report concerns.
 
-![Image harrshing workplace behavior](https://www.hrfuture.net/strategy/legal/it-only-counts-as-sexual-harassment-during-working-hours/)
-
+[It Only Counts as Sexual Harassment During Working Hours?](https://www.hrfuture.net/strategy/legal/it-only-counts-as-sexual-harassment-during-working-hours/)
 
 ### Importance of Addressing Sexual Harassment
 Addressing sexual harassment promptly is essential for fostering a respectful, inclusive, and productive workplace. It reduces stress, increases job satisfaction, and helps retain talented employees. Organizations should enforce policies, conduct training, and create an environment where individuals feel safe to report concerns.
