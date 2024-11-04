@@ -39,6 +39,4 @@ Creating a harassment-free workplace is a shared responsibility. Organizations m
 
 ### Additional Resources
 For a deeper understanding, refer to:
-- [Sexual Harassment Overview](https://www.youtube./watch?v=Ue3BTGW3uRQ)
-- [Workplace Bullying and Harassment](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 - [Detailed Scenarios and Actions](https://www.youtube.com/watch?v=o3FhoCz-FbA)
