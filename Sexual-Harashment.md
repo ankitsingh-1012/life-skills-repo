@@ -6,13 +6,13 @@ Sexual harassment refers to unwelcome behavior of a sexual nature that negativel
 
 | Type                        | Description                                                                                                                             |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| **Physical Harassment**     | Unwanted physical contact, like touching, hugging, or blocking paths, causing discomfort or intimidation.                             |
-| **Verbal Harassment**       | Includes sexual jokes, comments on appearance, or unwelcome advances despite refusal.                                                 |
-| **Non-Verbal Harassment**   | Involves suggestive gestures, persistent staring, or displaying explicit content.                                                     |
-| **Cyber Harassment**        | Sending unsolicited messages, explicit images, or online harassment through emails, social media, or other platforms.                 |
-| **Hostile Environment**     | Creating a workspace filled with inappropriate comments or actions, making it difficult for others to feel comfortable.              |
+| **Physical Harassment**     | Unwanted physical contact, like touching, hugging, or blocking paths, causing discomfort or intimidation.                               |
+| **Verbal Harassment**       | Includes sexual jokes, comments on appearance, or unwelcome advances despite refusal.                                                   |
+| **Non-Verbal Harassment**   | Involves suggestive gestures, persistent staring, or displaying explicit content.                                                       |
+| **Cyber Harassment**        | Sending unsolicited messages, explicit images, or online harassment through emails, social media, or other platforms.                   |
+| **Hostile Environment**     | Creating a workspace filled with inappropriate comments or actions, making it difficult for others to feel comfortable.                 |
 | **ODO (Out of Direct Observation)** | Harassment that occurs indirectly, such as spreading rumors, gossip, or making derogatory comments behind someone’s back.       |
-| **Harassment Toward Men**   | Although often underreported, men may face unwelcome advances, stereotypes, or inappropriate comments in workplace settings.           |
+| **Harassment Toward Men**   | Although often underreported, men may face unwelcome advances, stereotypes, or inappropriate comments in workplace settings.          |
 
 ### Examples and Signs of Sexual Harassment
 - **Physical Examples**: Unwelcome touching or close proximity, blocking someone’s path, shoulder massages, etc.
@@ -31,9 +31,7 @@ Addressing sexual harassment promptly is essential for fostering a respectful, i
 
 ### Additional Resources
 For a deeper understanding, refer to:
-- [Sexual Harassment Overview](https://www.youtube.
-
-/watch?v=Ue3BTGW3uRQ)
+- [Sexual Harassment Overview](https://www.youtube./watch?v=Ue3BTGW3uRQ)
 - [Workplace Bullying and Harassment](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 - [Detailed Scenarios and Actions](https://www.youtube.com/watch?v=o3FhoCz-FbA)
 
