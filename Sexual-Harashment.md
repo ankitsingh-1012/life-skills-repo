@@ -1,6 +1,6 @@
 ### Sexual Harassment:
 
-Sexual harassment refers to unwelcome behavior of a sexual nature that negatively impacts a person’s safety, comfort, and respect within an environment. Such behavior can target any gender and disrupts both personal well-being and professional productivity. Understanding its forms helps individuals recognize and address it effectively.
+Sexual harassment refers to unwelcome behavior of a sexual nature that negatively impacts a person’s safety, comfort, and respect within an environment. Such behavior can target any gender and disrupt both personal well-being and professional productivity. Understanding its forms helps individuals recognize and address it effectively.
 
 ### Types of Sexual Harassment
 
@@ -24,14 +24,16 @@ Sexual harassment refers to unwelcome behavior of a sexual nature that negativel
 1. **Report the Incident**: Contact HR or a trusted supervisor to initiate a formal investigation.
 2. **Document Incidents**: Record details like date, time, and context to help substantiate claims if needed.
 3. **Seek Support**: Encourage affected individuals to report incidents and seek assistance from mental health resources or supportive colleagues.
-4. **Escalate if Necessary**: If harassment continues, consider escalating to senior management or legal avenues to ensure thorough resolution.
+4. **Escalate if Necessary**: If the harassment continues, consider escalating to senior management or legal avenues to ensure a thorough resolution.
 
 ### Importance of Addressing Sexual Harassment
 Addressing sexual harassment promptly is essential for fostering a respectful, inclusive, and productive workplace. It reduces stress, increases job satisfaction, and helps retain talented employees. Organizations should enforce policies, conduct training, and create an environment where individuals feel safe to report concerns.
 
 ### Additional Resources
 For a deeper understanding, refer to:
-- [Sexual Harassment Overview](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
+- [Sexual Harassment Overview](https://www.youtube.
+
+/watch?v=Ue3BTGW3uRQ)
 - [Workplace Bullying and Harassment](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 - [Detailed Scenarios and Actions](https://www.youtube.com/watch?v=o3FhoCz-FbA)
 
