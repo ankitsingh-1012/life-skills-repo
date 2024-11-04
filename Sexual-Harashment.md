@@ -29,10 +29,17 @@ Sexual harassment refers to unwelcome behavior of a sexual nature that negativel
 ### Importance of Addressing Sexual Harassment
 Addressing sexual harassment promptly is essential for fostering a respectful, inclusive, and productive workplace. It reduces stress, increases job satisfaction, and helps retain talented employees. Organizations should enforce policies, conduct training, and create an environment where individuals feel safe to report concerns.
 
+![Image harrshing workplace behavior](https://www.hrfuture.net/strategy/legal/it-only-counts-as-sexual-harassment-during-working-hours/)
+
+
+### Importance of Addressing Sexual Harassment
+Addressing sexual harassment promptly is essential for fostering a respectful, inclusive, and productive workplace. It reduces stress, increases job satisfaction, and helps retain talented employees. Organizations should enforce policies, conduct training, and create an environment where individuals feel safe to report concerns.
+
+### Conclusion
+Creating a harassment-free workplace is a shared responsibility. Organizations must actively work to prevent harassment, while individuals are encouraged to report and document incidents to promote accountability. Building an inclusive, supportive environment benefits everyone, reinforcing respect, trust, and collaboration. By understanding and responding to harassment effectively, we contribute to a workplace where all employees feel valued and safe.
+
 ### Additional Resources
 For a deeper understanding, refer to:
 - [Sexual Harassment Overview](https://www.youtube./watch?v=Ue3BTGW3uRQ)
 - [Workplace Bullying and Harassment](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 - [Detailed Scenarios and Actions](https://www.youtube.com/watch?v=o3FhoCz-FbA)
-
-![Image promoting respectful workplace behavior and unity against harassment](Image of diverse individuals fostering respect and awareness in the workplace)
