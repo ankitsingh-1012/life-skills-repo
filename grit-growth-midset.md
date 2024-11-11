@@ -12,7 +12,7 @@ A growth mindset emphasizes that abilities and intelligence can be developed thr
 
 ## 3. Understanding Internal Locus of Control
 
-**The Internal Locus of Control
+** The Internal Locus of Control
 
 The Internal Locus of Control is the belief that one has control over their own actions and outcomes, rather than attributing success or failure to external factors. The key point is that individuals with an internal locus of control take responsibility for their own growth and success.
 
